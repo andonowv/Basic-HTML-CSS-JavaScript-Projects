@@ -1,0 +1,31 @@
+*{
+    background-image: url("./img/depositphotos_18975613-stock-photo-dark-green-paper-background.jpg");
+    background-size: cover;
+}
+*{
+    font-family: 'Trebuchet MS', "Lucida Sans Unicode", "Lucida Sans";
+    color: white;
+    text-align: center;
+    font-size: 45px;
+    font-weight: bold;
+}
+h1{
+    font-weight: bold;
+    color: goldenrod;
+    text-align: center;
+    font-size: 85px;
+}
+#message-el{
+    font-style: italic;
+}
+button{
+    color: #016f32;
+    width: 350px;
+    background: goldenrod;
+    border: none;
+    border-radius: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+    padding-top: 5px;
+    font-weight: bold;
+}
